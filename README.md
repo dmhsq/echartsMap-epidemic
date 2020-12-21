@@ -18,3 +18,15 @@ npm run build
 ```
 
 打包后的在dist中
+
+需要配置nginx代理转发
+
+
+```html
+"/api": {
+        target: "https://www.ncovchina.com/data",
+   
+ "/aki": {
+        target: "https://api.inews.qq.com/newsqa/v1/automation/foreign/country",
+
+```
