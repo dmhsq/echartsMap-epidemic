@@ -1,2 +1,24 @@
-# echartsMap-epidemic
-全球疫情地图，代码未优化，点击可进入中国子地图
+# yingxiao
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
