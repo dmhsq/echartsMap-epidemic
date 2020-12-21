@@ -1,24 +1,20 @@
-# yingxiao
+# 疫情地图
 
-## Project setup
+在线地址<www.zczyp.top>
+
+## Project setup安装依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+打包后的在dist中
